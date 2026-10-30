@@ -1,41 +1,125 @@
-<h1 align="center">Hi 👋, I'm Rahul kolhe</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+ 
+<h1 align="center">Hey there, I'm Rahul Kolhe 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkolhe777&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkolhe777" /> </p>
+<h3 align="center">Full Stack Developer | Problem Solver | Lifelong Learner</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulkolhe777" alt="rahulkolhe777" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/rahulkolhe_777" target="blank"><img src="https://img.shields.io/twitter/follow/rahulkolhe_777?logo=twitter&style=for-the-badge" alt="rahulkolhe_777" /></a> </p>
-
-- 🔭 I’m currently working on [AI Interveiw Platform](https://github.com/Rahulkolhe777/snitch)
-
-- 🌱 I’m currently learning **Advance backend, genrativeAI,systemDesgin ,dsa**
-
-- 👯 I’m looking to collaborate on [AI CodingIDE](https://github.com/Rahulkolhe777)
-
-- 🤝 I’m looking for help with [AI codingIDE](https://github.com/Rahulkolhe777)
-
-- 👨‍💻 All of my projects are available at [https://github.com/Rahulkolhe777](https://github.com/Rahulkolhe777)
-
-- 💬 Ask me about **full stack dev,**
-
-- 📫 How to reach me **kolherahul07@gmail.com,https://www.linkedin.com/feed/**
-
-- ⚡ Fun fact **I love deep talks**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rahulkolhe_777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulkolhe_777" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rahul kolhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul kolhe" height="30" width="40" /></a>
-<a href="https://instagram.com/_rahul_kolhe_777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rahul_kolhe_777" height="30" width="40" /></a>
-<a href="https://discord.gg/https://github.com/Rahulkolhe777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://github.com/Rahulkolhe777" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+things+for+the+web+%F0%9F%9A%80;Exploring+Backend+Development+%F0%9F%92%BB;Learning+DSA+one+problem+at+a+time+%F0%9F%A7%A0;Turning+ideas+into+real+projects+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rahulkolhe777&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Rahulkolhe777?label=Followers&style=flat-square&color=blue" alt="Followers" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulkolhe777&show_icons=true&locale=en&layout=compact" alt="rahulkolhe777" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulkolhe777&show_icons=true&locale=en" alt="rahulkolhe777" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkolhe777&" alt="rahulkolhe777" /></p>
+- 🎓 Computer Engineering student from India.
+- 💻 Passionate about building full-stack web applications.
+- 🌱 Currently exploring **Advanced Backend Development, System Design, Generative AI and DSA**.
+- 🔨 Building projects that solve real-world problems.
+- 🧠 Improving my problem-solving skills through consistent DSA practice.
+- 🤝 Open to collaboration, open-source contributions and exciting ideas.
+- ⚡ Fun fact: I love deep conversations and turning random ideas into projects.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,vite" />
+</p>
+
+### Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,redis,prisma,graphql" />
+</p>
+
+### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts" />
+</p>
+
+### Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,postman,bun,linux" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rahulkolhe777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulkolhe777&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahulkolhe777&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahulkolhe777&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rahulkolhe777&theme=tokyonight" width="100%" alt="Contribution Summary" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rahulkolhe777&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 💻 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Rahulkolhe777/snitch">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahulkolhe777&repo=snitch&theme=tokyonight&hide_border=true" alt="Snitch Project" />
+  </a>
+</p>
+
+<p align="center">
+  🚀 More projects coming soon...
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/rahulkolhe_777" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-black?style=for-the-badge&logo=x" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/_rahul_kolhe_777" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:kolherahul07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Great things are built one commit at a time."</i>
+</p>
+
+<p align="center">
+  ⭐ From <a href="https://github.com/Rahulkolhe777">Rahul Kolhe</a> 
+</p>
