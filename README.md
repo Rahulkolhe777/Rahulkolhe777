@@ -52,8 +52,8 @@
 
 | Project | What it does | Tech | Status |
 |---|---|---|---|
-| 🤖 **[AI Interview Platform](https://github.com/Rahulkolhe777/snitch)** | Multi-agent AI platform that conducts and evaluates mock interviews | [Add your stack] | 🚧 In progress |
-| 🧑‍💻 **AI Coding IDE** | AI-assisted coding environment | [Add your stack] | 💡 Looking for collaborators |
+| 🤖 **[AI Interview Platform](https://github.com/Rahulkolhe777/snitch)** | Multi-agent AI platform that conducts and evaluates mock interviews | _Add your stack_ | 🚧 In progress |
+| 🧑‍💻 **AI Coding IDE** | AI-assisted coding environment | _Add your stack_ | 💡 Looking for collaborators |
 | 🏪 **Agrovia (Kisan APMC Portal)** | Farmer-facing APMC web app for market info | React, Tailwind CSS, Node.js | 🚧 In progress |
 
 <p align="center">
@@ -65,7 +65,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rahulkolhe777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats (stars, commits, PRs, issues)" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rahulkolhe777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulkolhe777&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
@@ -78,13 +78,18 @@
 ### 📈 Contribution Activity Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rahulkolhe777&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rahulkolhe777&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&radius=8&title_color=58a6ff&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
 </p>
 
-### 🟩 Commit Graph
+### 🐍 Commit Graph
 
+<!-- Needs .github/workflows/snake.yml in this repo. Run it once from the Actions tab to create the "output" branch. -->
 <p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/58a6ff/Rahulkolhe777" alt="Commit Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rahulkolhe777/Rahulkolhe777/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rahulkolhe777/Rahulkolhe777/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Rahulkolhe777/Rahulkolhe777/output/github-snake-dark.svg" width="100%" />
+  </picture>
 </p>
 
 <p align="center">
